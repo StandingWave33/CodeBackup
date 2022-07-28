@@ -1,0 +1,1 @@
+使用清华镜像安装scipy: pip install scipy -i https://pypi.tuna.tsinghua.edu.cn/simple
